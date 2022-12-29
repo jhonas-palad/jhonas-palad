@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @jhonas-palad
+- I'm currently a student
 
 <!---
 jhonas-palad/jhonas-palad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
